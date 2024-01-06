@@ -13,7 +13,8 @@
                     }
                     h2{
                         text-align : center;
-                        background-color : purple;
+                         color: black;
+                        background-color : cyan;
                         padding : 20px;
                         letter-spacing: 10px;
                         font-size: 30px;
@@ -22,7 +23,7 @@
 
                     }
                     table{
-                           margin-left: 350px;
+                           margin-left: 680px;
                            box-shadow : 3px 3px 5px 5px crimson;
                     }
                 </style>
@@ -31,7 +32,7 @@
             <body>
                 <h2>XSL WORK</h2>
 
-                <table border="1" cellspacing="15px"  cellpadding="15px">  
+                <table border="1" cellspacing="20px"  cellpadding="20px">  
                     <tr>
                         <th bgcolor="teal" colspan="4">STUDENT DATA</th>
                     </tr>

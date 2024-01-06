@@ -13,7 +13,6 @@
                 }
                 h1{
                     text-align : center;
-                    background-color :cyan;
                     padding : 20px;
                     letter-spacing: 10px;
                     font-size: 30px;
@@ -22,7 +21,7 @@
 
                 }
                 table{
-                       margin-left: 350px;
+                       margin-left: 800px;
                        box-shadow : 3px 3px 5px 5px teal; 
                 }
             </style>
@@ -30,7 +29,7 @@
         <body>
             <h1>Bank Emloyee Table</h1>
 
-            <table border="2" cellspacing="15px" cellpadding="15px">
+            <table border="2" cellspacing="20px" cellpadding="15px">
                 <tr>
                     <th bgcolor="grey">Id</th>
                     <th bgcolor="grey">Name</th>
